@@ -1,0 +1,16 @@
+conceptos básicos de javascript.
+
+Variables 'var': es la manera en la cual podremos ingresar datos (cuales quiera) para utilizarlos después en nuestro trabajo.
+
+String: son textos que apareceran literalmente, no tienen función extra. Para colocar un string, el texto 
+se coloca dentro de comillas simples '.' ó comillas dobles "."
+
+Funciones: Es la manera en como utilizar las variables que ingresamos previamente (calculos, mostrar,modificar,etc.)
+  Argumentos: Es colocar una variable a una función para que la función inicie su trabajo con respecto a la variable.
+  Return: Es la forma en que los datós salen completamente de las funciones, con gracias a eso la función finaliza.
+
+Declaraiones 'IF': se refiere una forma de decir: 'Si tal cosa se refiere a esto, entonces realiza esto otro'
+     True: cuando un planteamento if se cumple, entonces decimos que es cierto o en todo caso 'true', Por lo que 
+     este es el resultado de la declaración 'if'
+     False: cuando una cuestión planteada 'if' no se cumple, decimos que es falsa 'false' por lo que ahora aparece
+     otra opción u otro resultado.  

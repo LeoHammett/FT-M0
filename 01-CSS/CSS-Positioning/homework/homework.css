@@ -45,24 +45,27 @@ text-align: center;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-direction: column;
+    align-content:flex end;
 }
 
 
 
 /* Ejercicio 6. */
 #ejercicioCinco{
-        flex-direction: row-reverse
+        flex-direction: row-reverse;
 }
 
 #ejercicioSiete{
     align-items: center;
-    flex-direction: column
+    flex-direction: column;
     }
 #elementoUno{
     align-self: baseline;
 }
 #elementoTres{
-    align-self: flex-end;
-}
+    align-self: flex-end 
 
 }
+
+/* //coden, */
