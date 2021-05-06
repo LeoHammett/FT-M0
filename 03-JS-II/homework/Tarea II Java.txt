@@ -1,0 +1,11 @@
+Tarea >JavaScript II
+
+For: es un ciclo de repetición que estará repitiendose hasta que el resultado sea false.
+
+&&: Es la forma de decir 'Y' entre expresiones, su función es evaluar éstas y verificar si son verdaderas o falsas.
+     (si algún valor o ambos valores es falso, el operador será 'false' )
+
+||: Es la manera de decir 'ó' entre expresiones, su función es evaluar éstas y verificar si son verdaderas o falsas
+     (si ambos valores son falsos el operador sera 'false', de lo contrario el operador será 'true')
+
+!:   Indica que el valor de la variable es en realidad lo contrario (valor opuesto).
