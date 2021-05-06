@@ -13,4 +13,4 @@ Declaraiones 'IF': se refiere una forma de decir: 'Si tal cosa se refiere a esto
      True: cuando un planteamento if se cumple, entonces decimos que es cierto o en todo caso 'true', Por lo que 
      este es el resultado de la declaración 'if'
      False: cuando una cuestión planteada 'if' no se cumple, decimos que es falsa 'false' por lo que ahora aparece
-     otra opción u otro resultado.  
+     otra opción u otro resultado....
