@@ -1,0 +1,4 @@
+Arrays: Básicamente son archiveros dónde existen diferentes datos, éstos datos 
+  pueden ser llamados, modificados o utilizados según se requiea.
+
+  
