@@ -1,0 +1,9 @@
+Objetos: son datos donde se guarda bastante información para trabajar en ello, son similares a las matrices.
+
+Propiedades: son los valores dentro de un objeto, se dividen en clave y valor, se separan con ':' entre ellos.
+Los valores "que son el contenido de las claves" pueden tener varios dator y se separan con una ','
+
+Métodos: son las funciones que se pueden establecer a los valores.
+
+For-in: itera objetos por cadenas.
+
