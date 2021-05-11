@@ -1,0 +1,3 @@
+Prototype: plantilla que sirve como base para la creación de objetos más especificados.
+
+Constructor: Metodo para crea e iniciar un objeto creado en una clase.
